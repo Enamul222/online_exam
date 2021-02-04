@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+body{
+	font-family: 'Hind Siliguri', sans-serif;
+}
+
+#banner {
+    background: url(../images/slide-2.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    padding: 110px 30px;
+}
+
+.heading-border hr{
+	border-top: 2px dashed green;
+}
